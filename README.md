@@ -17,4 +17,4 @@ Intermediate level - English
 
 Elementary level - Arabic, Japanese, Chinese
 
-I am currently studying Arabic and Japanese! I think their scripts are so cool.
+I am currently studying Arabic and Japanese! I think their scripts are super cool.
