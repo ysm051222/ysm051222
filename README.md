@@ -19,4 +19,4 @@ it is pronounced [ku.gu.d͡ʒo]. If you cannot read [IPA](https://en.wikipedia.o
 
 - Elementary level - Arabic, Japanese, Chinese
 
-I am currently studying Arabic and Japanese! I think their scripts are super cool.
+I am currently studying Arabic, Manchu and Japanese! I think their scripts are super cool.
