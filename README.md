@@ -12,7 +12,9 @@ It means phrase structure in Korean as used in terms like [Phrase structure rule
 
 ## Language
 Native level - Korean 
-Intermediate level - English, Chinese
-Elementary level - Arabic, Japanese
+
+Intermediate level - English
+
+Elementary level - Arabic, Japanese, Chinese
 
 I am currently studying Arabic and Japanese! I think their scripts are so cool.
