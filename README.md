@@ -13,9 +13,9 @@ It means phrase structure in Korean as used in terms like [Phrase structure rule
 it is pronounced [ku.gu.d͡ʒo]. If you cannot read [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), you can read it as... *cook-a-jaw*. That's quite horrible though.
 
 ## Language
-- Native level - Korean 
+Basically, I'm a bye-lingual.
 
-- Intermediate level - English
+- Intermediate level - Korean, English
 
 - Elementary level - Arabic, Japanese, Chinese
 
