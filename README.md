@@ -1,5 +1,5 @@
-# Hi there! 
-My name is Seungmin Yoo [sʰɯŋ.min.ju]
+# 유승민 (柳承慜)
+Hi there! My name is Seungmin Yoo [sʰɯŋ.min.ju]
 
 I'm an undergraduate student majoring in [linguistics at Seoul National University](https://linguist.snu.ac.kr/en/). I'm currently deeply interested in syntax, formal semantics (I love lambda calculus notation so much!), phonology, and graphematics. 
 
