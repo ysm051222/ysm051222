@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 <!--
 **ysm051222/ysm051222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! 
+My name is Seungmin Yoo[sʰɯŋ.min.ju], and I'm an undergraduate student majoring in linguistics at Seoul National University. I'm currently deeply interested in minimalist syntax, graphmatics and semantic analysis using typed lambda calculus. As my understanding of linguistics is still developing, I'm currently exploring a wide range of topics within the field. 
+
+Since my Korean name is quite complicated, you can call me by Kwukwuco [ku.ku]
