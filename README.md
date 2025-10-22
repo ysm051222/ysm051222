@@ -9,3 +9,10 @@ Since my Korean name is quite complicated, you can call me Kwukwuco [ku.gu.d͡ʒ
 
 ## What does Kwukwuco stand for?
 It means phrase structure in Korean as used in terms like [Phrase structure rules](https://en.wikipedia.org/wiki/Phrase_structure_rules) or [Head-driven phrase structure grammar](https://en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar). it is pronounced [ku.gu.d͡ʒo]. If you cannot read [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), you can read it as... *cook-a-jaw*. That's quite horrible though.
+
+## Language
+Native level - Korean 
+Intermediate level - English, Chinese
+Elementary level - Arabic, Japanese
+
+I am currently studying Arabic and Japanese! I think their scripts are so cool.
