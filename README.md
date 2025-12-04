@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# 유승민 (柳承慜, Seungmin Yoo)
+https://ysm051222.github.io/
 <!--
 **ysm051222/ysm051222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
